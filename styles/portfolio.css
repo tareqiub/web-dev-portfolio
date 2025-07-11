@@ -1,15 +1,13 @@
-/* Common Shared Styles */
+/* Shared Styles */
 body {
     font-family: "Open Sans", sans-serif;
-
 }
 
-.text-primary-color {
-    color: #fd6e0a;
-
+.primary-color {
+    color: #FD6E0A;
 }
 
-/* nav related styles */
+/* Nav Related Styles */
 nav {
     display: flex;
 }
@@ -25,7 +23,8 @@ nav li {
 
 nav a {
     text-decoration: none;
-    color: #181818;
+    font-size: 20px;
+
 }
 
 .nav-title {
@@ -34,9 +33,8 @@ nav a {
     font-weight: 800;
 }
 
-.button-primary {
-    background-color: #FD6E0A;
-    color: white;
+.btn-primary {
     border-radius: 5px;
-    border-color: white;
+    background-color: #FD6E0A;
+
 }
