@@ -87,7 +87,7 @@ nav a{
     font-size: 18px;
     color: #757575;
     margin-top:0;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 .banner-content{
     max-width:585px;
@@ -99,6 +99,6 @@ nav a{
 padding: 130px;
 border-radius: 10px;
 background-color: #FFF8F3;
-margin-top: 130px ;
+margin: 130px 0;
 }
 
