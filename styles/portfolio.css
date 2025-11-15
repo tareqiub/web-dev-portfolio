@@ -117,4 +117,7 @@ margin: 130px 0;
 .skill-container{
     display: flex;
 }
+.skill{
+    margin-right: 24px;
+}
 
