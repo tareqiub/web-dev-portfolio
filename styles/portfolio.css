@@ -85,10 +85,34 @@ nav a{
     margin-bottom: 30px;
 }
 /* main section styles */
-
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
 /* about section styles */
 .about{
     padding:130px;
     background: #FFF8F3;
     margin: 130px 0;
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.about-info{
+    text-align: center;
+    margin-right: 37px;
+}
+.info-title{
+    font-size: 20px;
+    font-weight: 400;
+    color: #757575;
+    text-align: center;
+    line-height: 30px;
+
+}
+.info-description{
+    color: #474747;
+    font-weight: 700;
+    text-align: center;
 }
