@@ -11,7 +11,7 @@ body{
     border-radius: 5px;
     padding: 18px 35px ;
     font-size: 20px;
-    border: none;
+    border: 0;
     font-weight: 700;
 }
 /* nav related styles */
@@ -47,6 +47,6 @@ nav a{
     display: flex;
     align-items: center;
 }
-.profile-picture{
+.banner .profile-picture{
     width: 500px;
 }
